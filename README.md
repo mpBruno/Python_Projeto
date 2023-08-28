@@ -1,7 +1,6 @@
 # Python_Projeto
 
 menu =  """
-
     [a]Depositar
     [b]Sacar
     [c]Extrato
